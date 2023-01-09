@@ -1,2 +1,2 @@
 # polynomial-multiplication-karatsuba
-polynomial multiplication using karatsuba algorithm
+Polynomial multiplication using karatsuba algorithm in C
